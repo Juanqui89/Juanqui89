@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/Juanqui89/Juanqui89/blob/main/Foto2.webp" width="500" height="300" alt="Foto Mia"/>
+  <img src="https://github.com/Juanqui89/Juanqui89/blob/main/Foto2.webp" width="100%" height="300" alt="Foto Mia"/>
 </div>
 
 
