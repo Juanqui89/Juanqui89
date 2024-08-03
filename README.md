@@ -1,4 +1,4 @@
-##![Foto](https://github.com/Juanqui89/Juanqui89/blob/main/foto2.webp)
+##![Foto mia](https://github.com/Juanqui89/Juanqui89/blob/main/Foto2.webp)
 
 
 
