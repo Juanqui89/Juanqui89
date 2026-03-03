@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Juanqui89/Juanqui89/blob/main/Foto2.webp" width="50%" height="300" alt="Foto Mia"/>
-</p>
+
 
 
 <p> Soy desarrollador Front-End / Full-Stack Junior con formación en programación y experiencia real en liderazgo de equipos. Me especializo en crear aplicaciones web modernas y responsivas utilizando React, TypeScript, Tailwind CSS y JavaScript, enfocándome en interfaces limpias, rendimiento y una excelente experiencia de usuario.
