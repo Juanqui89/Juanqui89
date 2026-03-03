@@ -3,14 +3,15 @@
 </p>
 
 
-<p> Full-Stack Developer Junior | React | TypeScript | Tailwind CSS | SQL | Git
+<p> Soy desarrollador Front-End / Full-Stack Junior con formación en programación y experiencia real en liderazgo de equipos. Me especializo en crear aplicaciones web modernas y responsivas utilizando React, TypeScript, Tailwind CSS y JavaScript, enfocándome en interfaces limpias, rendimiento y una excelente experiencia de usuario.
 
-Soy desarrollador full-stack junior con formación en programación y experiencia en tecnologías clave del desarrollo web moderno. Me especializo en crear interfaces interactivas y responsivas utilizando HTML, CSS, JavaScript y Tailwind CSS. Trabajo con React y TypeScript para desarrollar aplicaciones escalables y de alto rendimiento.
-También tengo experiencia en bases de datos SQL y control de versiones con Git, lo que me permite colaborar eficazmente en entornos ágiles.
-Apasionado por la tecnología, el aprendizaje continuo y la entrega de soluciones funcionales y bien estructuradas.
+Antes de dar el salto al desarrollo, trabajé como Supervisor de Ventas liderando un equipo de 8 personas, lo que fortaleció mis habilidades de resolución de problemas, comunicación y toma de decisiones basada en datos — capacidades que ahora aplico al desarrollo de soluciones web prácticas y escalables.
 
-Portafolio: https://kodunity.netlify.app/
-Github: https://github.com/Juanqui89</p>
+Tengo experiencia trabajando con bases de datos SQL, APIs REST y control de versiones con Git, y disfruto colaborar en entornos ágiles mientras continúo desarrollando y fortaleciendo mis habilidades técnicas.
+
+
+
+🚀 Actualmente abierto a oportunidades como Front-End Developer, Full-Stack Junior y React Developer (Puerto Rico & Remoto).</p>
 
 
 <h2>Habilidades:</h2>
